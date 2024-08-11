@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\CarProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|c:\\users\\user\\desktop\\c#\\carproje\\carproje\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|solutionrelative:carproje\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|c:\\users\\user\\desktop\\c#\\carproje\\carproje\\enumofclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|solutionrelative:carproje\\enumofclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|c:\\users\\user\\desktop\\c#\\carproje\\carproje\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|solutionrelative:carproje\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|c:\\users\\user\\desktop\\c#\\carproje\\carproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E417A67-0EAF-41DF-996A-6C6EF413A7B8}|CarProje\\CarProje.csproj|solutionrelative:carproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 786,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\CarManager.cs",
+              "RelativeDocumentMoniker": "CarProje\\CarManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\CarManager.cs",
+              "RelativeToolTip": "CarProje\\CarManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:10:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\Cars.cs",
+              "RelativeDocumentMoniker": "CarProje\\Cars.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\Cars.cs",
+              "RelativeToolTip": "CarProje\\Cars.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:08:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumofClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\EnumofClass.cs",
+              "RelativeDocumentMoniker": "CarProje\\EnumofClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\EnumofClass.cs",
+              "RelativeToolTip": "CarProje\\EnumofClass.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:07:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\Program.cs",
+              "RelativeDocumentMoniker": "CarProje\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CarProje\\CarProje\\Program.cs",
+              "RelativeToolTip": "CarProje\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:04:24.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

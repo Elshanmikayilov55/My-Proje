@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\CarProje\CarProje\bin\Debug\net8.0\CarProje.exe
+C:\Users\user\Desktop\C#\CarProje\CarProje\bin\Debug\net8.0\CarProje.deps.json
+C:\Users\user\Desktop\C#\CarProje\CarProje\bin\Debug\net8.0\CarProje.runtimeconfig.json
+C:\Users\user\Desktop\C#\CarProje\CarProje\bin\Debug\net8.0\CarProje.dll
+C:\Users\user\Desktop\C#\CarProje\CarProje\bin\Debug\net8.0\CarProje.pdb
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.dll
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\refint\CarProje.dll
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.pdb
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\CarProje.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\CarProje\CarProje\obj\Debug\net8.0\ref\CarProje.dll
